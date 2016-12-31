@@ -6,7 +6,7 @@ The original code comes from https://github.com/martynjames/haml-coffee and is q
 
 ### Installation
 ```bash
-$  git+https://github.com/creative-workflow/haml-coffee.git
+$ npm install git+https://github.com/creative-workflow/haml-coffee.git
 ```
 
 ## !!Original Description
