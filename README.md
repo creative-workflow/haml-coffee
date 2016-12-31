@@ -1,10 +1,15 @@
-# Haml-Coffee Templating - the more ruby way
+# Haml-Coffee Templating - the more "haml-ruby" way
 
 ## Creative-Workflow - Addition
 
 The original code comes from https://github.com/martynjames/haml-coffee and is quick and dirty hacked for being a usable ruby-haml alternative. For this reason we implemented ``:inline-coffeescript`` for inline coffee script usage and ``:content-for`` functionality for complex templating within layout blocks.
 
-## Original Description
+### Installation
+```bash
+$  git+https://github.com/creative-workflow/haml-coffee.git
+```
+
+## !!Original Description
 
 Haml Coffee is a JavaScript templating solution that uses [Haml](http://haml-lang.com/) as markup, understands inline
 [CoffeeScript](http://jashkenas.github.com/coffee-script/) and generates a JavaScript function that renders to HTML. It
