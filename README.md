@@ -2,7 +2,7 @@
 
 ## Creative-Workflow - Addition
 
-The original code comes from https://github.com/martynjames/haml-coffee and is quick and dirty hacked for being a usable ruby-haml alternative. For this reason we implemented ``:inline-coffeescript`` for inline coffee script usage and ``:content-for`` functionality for complex templating within layouts blocks.
+The original code comes from https://github.com/martynjames/haml-coffee and is quick and dirty hacked for being a usable ruby-haml alternative. For this reason we implemented ``:inline-coffeescript`` for inline coffee script usage and ``:content-for`` functionality for complex templating within layout blocks.
 
 ## Original Description
 
